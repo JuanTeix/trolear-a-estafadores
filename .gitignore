@@ -1,0 +1,18 @@
+# Ignorar archivos de respaldo generados por editores de texto
+*~
+
+# Ignorar archivos compilados o generados automáticamente
+*.pyc
+*.class
+/target/
+
+# Ignorar archivos de configuración locales
+config.ini
+
+# Ignorar directorios y archivos sensibles
+sensitive_directory/
+secrets.txt
+
+
+# Ignorar directorios entorno virtual
+SedWhatsapp-env

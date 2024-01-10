@@ -16,4 +16,4 @@ secrets.txt
 
 
 # Ignorar directorios entorno virtual
-/SendWhatsapp-env
+SendWhatsapp-env/

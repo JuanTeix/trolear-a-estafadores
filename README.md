@@ -4,10 +4,6 @@
 
 La App esta diseñada para enviar 10mil WhatsApp. Esta App proporciona una forma conveniente de automatizar el proceso de envío de mensajes mediante Whatsapp Web.
 
-## Importante
-Debes tener la sesion de tu WhatsApp abierta en WhatsApp Web.
-- /File_IN
-- /File_OUT
 
 ## Tabla de Contenidos
 

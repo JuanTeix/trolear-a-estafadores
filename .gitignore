@@ -8,6 +8,7 @@
 
 # Ignorar archivos de configuración locales
 config.ini
+.env
 
 # Ignorar directorios y archivos sensibles
 sensitive_directory/

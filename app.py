@@ -3,8 +3,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 import pywhatkit 
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
+
 
 # Usamos Un try-except
 try:
